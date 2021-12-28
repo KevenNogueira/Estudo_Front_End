@@ -1,4 +1,4 @@
-# fronf-end
+# frond-end
 
 ## Project setup
 ```
